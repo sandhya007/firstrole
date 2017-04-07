@@ -1,0 +1,4 @@
+---
+- src: http://tw-poc.spratingsvpc.com/ansible/aws.git
+  scm: git
+  version: "master"
