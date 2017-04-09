@@ -2,3 +2,5 @@
 # tasks file for Secondrole
 - name: Second role
   command: pwd
+ - name: execute
+   command: date
