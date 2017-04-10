@@ -4,3 +4,6 @@
   command: pwd
  - name: execute
    command: date
+   - name: debug
+     debug
+       msg: 'welcome'
